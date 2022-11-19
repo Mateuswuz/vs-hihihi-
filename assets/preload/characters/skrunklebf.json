@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "skrunkle idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				-16
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "skrunkle left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				-25
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "skrunkle down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				23
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "skrunkle up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				-6
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "skrunkle right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				28
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "skrunkle MISS left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				18
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "skrunkle MISS down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				40
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "skrunkle MISS up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				17
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "skrunkle MISS right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-9,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "skrunkle yea"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				47,
+				24
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "skrunkle dodge",
+			"indices": []
+		},
+		{
+			"offsets": [
+				30,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "skrunkle hurt"
+		},
+		{
+			"offsets": [
+				-4,
+				-2
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "skrunkle shiverstimbers"
+		},
+		{
+			"offsets": [
+				594,
+				234
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "attack",
+			"indices": [],
+			"name": "skrunkle attack"
+		},
+		{
+			"offsets": [
+				13,
+				-45
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "pre-attack",
+			"indices": [],
+			"name": "skrunkle pre attack"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/skrunklebf",
+	"position": [
+		90,
+		390
+	],
+	"healthicon": "skrunkle",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		110,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
