@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="hihihi.png">
+<SubTexture name="hihihi up0000" x="0" y="0" width="584" height="528" frameX="0" frameY="0" frameWidth="584" frameHeight="528" />
+<SubTexture name="hihihi up0001" x="584" y="0" width="584" height="528" frameX="0" frameY="0" frameWidth="584" frameHeight="528" />
+<SubTexture name="hihihi down0000" x="0" y="528" width="584" height="528" frameX="0" frameY="0" frameWidth="584" frameHeight="528" />
+<SubTexture name="hihihi down0001" x="584" y="528" width="584" height="528" frameX="0" frameY="0" frameWidth="584" frameHeight="528" />
+<SubTexture name="hihihi left0000" x="1168" y="0" width="584" height="528" frameX="0" frameY="0" frameWidth="584" frameHeight="528" />
+<SubTexture name="hihihi left0001" x="1168" y="528" width="584" height="528" frameX="0" frameY="0" frameWidth="584" frameHeight="528" />
+<SubTexture name="hihihi right0000" x="0" y="1056" width="584" height="528" frameX="0" frameY="0" frameWidth="584" frameHeight="528" />
+<SubTexture name="hihihi right0001" x="584" y="1056" width="584" height="528" frameX="0" frameY="0" frameWidth="584" frameHeight="528" />
+<SubTexture name="hihihi idle0000" x="1168" y="1056" width="584" height="528" frameX="0" frameY="0" frameWidth="584" frameHeight="528" />
+<SubTexture name="hihihi idle0001" x="1752" y="0" width="584" height="528" frameX="0" frameY="0" frameWidth="584" frameHeight="528" />
+<SubTexture name="hihihi idle0002" x="1752" y="528" width="584" height="528" frameX="0" frameY="0" frameWidth="584" frameHeight="528" />
+</TextureAtlas>
