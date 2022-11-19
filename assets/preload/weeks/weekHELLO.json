@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"car",
+			"hihihi",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Normal, Pride",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Nermal Composee",
+	"weekName": "Vs. Hihihi",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
